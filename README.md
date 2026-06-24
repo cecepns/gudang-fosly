@@ -228,4 +228,4 @@ Jika terjadi masalah dengan perhitungan stok yang tidak akurat:
 
 ## License
 
-MIT License - lihat file LICENSE untuk detail.# gudang-fosly
+MIT License - lihat file LICENSE untuk detail.
